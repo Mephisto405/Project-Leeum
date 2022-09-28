@@ -1,0 +1,13 @@
+/.vscode
+/ceres-solver
+
+/colmap
+**/colmap_sparse
+**/colmap_text
+**/images
+**/screenshot
+*.db
+*.obj
+*.msgpack
+/data/nerf_synthetic
+/data/nerf_llff_data
